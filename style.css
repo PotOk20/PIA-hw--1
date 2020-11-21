@@ -1,0 +1,34 @@
+p.quotebubble{
+  background-color: rgb(209, 209, 209);
+    border-radius: 5px;
+    box-shadow: 0 0 6px #B2B2B2;
+    display: inline-block;
+    padding: 10px 18px;
+    position: relative;
+    vertical-align: top;
+    margin: 20px 10px;
+  font-family: 'Times New Roman', Times, serif;
+  
+  height: 80px;
+}
+.section-1{
+  position: absolute;
+  width: 70%;
+  height:100 px;
+  background-image: url(rbg.png);
+}
+.portrait {
+      position: absolute;
+  top: 50;
+  right: 0;
+  width: 220px;
+  
+}
+div.section-2{
+  position: absolute;
+  top: 385px;
+  right: 0;
+  width: 220px;
+  height: 1000px;
+  background-color: rgb(37, 167, 69);
+  }
